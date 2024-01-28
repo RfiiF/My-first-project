@@ -1,4 +1,4 @@
-# My first project
+# My First Project Using HTML
 This is my first project
 So a week ago I attended a mini bootcamp on front-end developers.
 The bootcamp was held for 4 days.
